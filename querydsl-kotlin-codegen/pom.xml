@@ -41,7 +41,7 @@
             <version>5.0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
-        <!-- test -->
+        < -- test -->
         <dependency>
             <groupId>com.querydsl</groupId>
             <artifactId>querydsl-core</artifactId>
@@ -93,4 +93,4 @@
             </plugin>
         </plugins>
     </build>
-</project>
+</project> 
